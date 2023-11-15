@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/adarshev8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshev8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adarsh e v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh e v" height="30" width="40" /></a>
-<a href="https://fb.com/adarshsariga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshsariga" height="30" width="40" /></a>
+<a href="https://fb.com/adarshsariga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh Sariga" height="30" width="40" /></a>
 <a href="https://instagram.com/ev_adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ev_adarsh" height="30" width="40" /></a>
 </p>
 
