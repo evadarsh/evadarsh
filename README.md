@@ -30,7 +30,7 @@
 
 - 💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives or dive into hackathons focused on creating innovative web solutions.</li>
 
-- 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:adarshev2002@gmail.com ), on [LinkedIn]([https://in.linkedin.com/in/adarsh-e-v-2a293a23b]), or on [Telegram](https://t.me/evadarsh).
+- 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:adarshev2002@gmail.com ), on [LinkedIn]([https://in.linkedin.com/in/adarsh-e-v-2a293a23b]), or on [Telegram](https://t.me/@ev_adarsh).
 
 
 
@@ -282,16 +282,9 @@ Let's craft brilliance through code! ✨
    <a href="https://www.adobe.com/in/" target="_blank"> 
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"
       alt="adobelightroom" /> 
-  </a> 
-  <a href="https://www.adobe.com/in/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
-      alt="adobexd" /> 
-  </a> 
+  </a>  
   <a href="https://www.canva.com/en/" target="_blank"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="canva" /> 
   </a> 
 
 </p>
@@ -311,9 +304,9 @@ Let's craft brilliance through code! ✨
 <p align="center">
 <a href="mailto:adarshev2002@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
 	<a href="https://wa.me/917510849660"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/adarsh e v/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/adarsh-e-v-2a293a23b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/ev_adarsh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
-  <a href="https://t.me/evadarsh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
+  <a href="https://t.me/@ev_adarsh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
   <a href="https://twitter.com/adarshev8"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
   <a href="https://www.hackerrank.com/evadrsh"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/></a>
 	
