@@ -30,7 +30,7 @@
 
 - 💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives or dive into hackathons focused on creating innovative web solutions.</li>
 
-- 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:adarshev2002@gmail.com ), on [LinkedIn]([https://in.linkedin.com/in/adarsh-e-v-2a293a23b]), or on [Telegram](https://t.me/@ev_adarsh).
+- 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:adarshev2002@gmail.com ), on [LinkedIn](https://in.linkedin.com/in/adarsh-e-v-2a293a23b), or on [Telegram](https://t.me/@ev_adarsh).
 
 
 
