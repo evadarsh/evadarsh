@@ -29,18 +29,6 @@
 
 - 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:adarshev2002@gmail.com ), on [LinkedIn](https://in.linkedin.com/in/adarsh-e-v-2a293a23b), or on [Telegram](https://t.me/@ev_adarsh).
 
-
-
-
-Let's craft brilliance through code! ✨
-
-  <br>
-
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
@@ -58,6 +46,18 @@ Let's craft brilliance through code! ✨
 	
 	
 </p>
+
+
+Let's craft brilliance through code! ✨
+
+  <br>
+
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
 
 ### Spotify Playing 🎧
 
