@@ -41,6 +41,24 @@ Let's craft brilliance through code! ✨
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+<p align="center">
+<a href="mailto:adarshev2002@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
+	<a href="https://wa.me/917510849660"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/adarsh-e-v-2a293a23b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/ev_adarsh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
+  <a href="https://t.me/@ev_adarsh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
+  <a href="https://twitter.com/adarshev8"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
+  <a href="https://www.hackerrank.com/adarshev2002"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/></a>
+  <a href="https://tryhackme.com/p/evadarsh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=F34A78&logoColor=white&labelColor=&style=for-the-badge" alt="tryhackme"/>
+</a>
+
+	
+	
+</p>
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/atk6gy5f75cm4gfeu59mruy2v?si=d1cb4acca82c49db)
@@ -296,23 +314,7 @@ Let's craft brilliance through code! ✨
 </p>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-<p align="center">
-<a href="mailto:adarshev2002@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
-	<a href="https://wa.me/917510849660"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/adarsh-e-v-2a293a23b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/ev_adarsh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
-  <a href="https://t.me/@ev_adarsh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
-  <a href="https://twitter.com/adarshev8"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
-  <a href="https://www.hackerrank.com/adarshev2002"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/></a>
-  <a href="https://tryhackme.com/p/evadarsh" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=F34A78&logoColor=white&labelColor=&style=for-the-badge" alt="tryhackme"/>
-</a>
-
-	
-	
-</p>
 
 <br/>
 <hr/>
