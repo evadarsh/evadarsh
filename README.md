@@ -306,6 +306,10 @@ Let's craft brilliance through code! ✨
   <a href="https://t.me/@ev_adarsh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
   <a href="https://twitter.com/adarshev8"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
   <a href="https://www.hackerrank.com/adarshev2002"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/></a>
+  <a href="https://tryhackme.com/p/evadarsh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=F34A78&logoColor=white&labelColor=&style=for-the-badge" alt="tryhackme"/>
+</a>
+
 	
 	
 </p>
