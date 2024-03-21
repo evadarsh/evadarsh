@@ -258,6 +258,11 @@ Let's craft brilliance through code! ✨
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
       alt="Flutter" /> 
   </a> 
+<a href="https://developer.android.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"
+      alt="Android" /> 
+</a>
+
   <!-- <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a>  -->
